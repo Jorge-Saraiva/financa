@@ -29,11 +29,11 @@ O habits é um app para ajudar a rastrear os hábitos.
 ## 🔖 Layout
 
 <p align="center">
-  <img alt="Projeto Finanças" src=".github/finance_1.jpg" width="100%">
+  <img alt="Projeto Finanças" src=".github/finance1.jpg" width="100%">
 </p>
 
 <p align="center">
-  <img alt="Projeto Finanças" src=".github/finance_2.jpg" width="100%">
+  <img alt="Projeto Finanças" src=".github/finance2.jpg" width="100%">
 </p>
 
 ## 🔖 Link
