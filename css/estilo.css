@@ -1,0 +1,123 @@
+* {
+    padding: 0;
+    margin: 0;
+  }
+
+.nav-link:hover {
+    color: white;
+}
+
+body{
+    background-color: rgba(219, 214, 214, 0.192);
+}
+
+.nav-item .btn {
+    color: white;
+}
+
+#home {
+    background: #ffc107;
+}
+
+
+
+@media (max-width: 575.98px) {
+    footer p {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    footer p {
+        display: flex;
+        justify-content: center;
+    }
+}
+
+@media (max-width: 575.98px) {
+    footer p button {
+        margin: 0 -5px;
+    }
+}
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    footer p button {
+        margin: 0;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .nav-item .btn {
+        display:inline-flex;
+    }
+}
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .nav-item .btn {
+        color: white;
+        display:inline-flex;
+    }
+}
+
+@media (max-width: 575.98px) {
+    .botao {
+        margin-bottom: 30px;
+    }
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .botao {
+        margin-bottom: 30px;
+    }
+}
+
+@media (max-width: 575.98px) {
+    #home img {
+        width: 50%;
+        /*border: 1px solid red;*/
+        display: flex;
+        margin: auto;
+    }
+}
+
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #home img {
+        width: 70%;
+        /*border: 1px solid red;*/
+        display: flex;
+        margin: auto;
+    }
+}
+
+.caixa {
+    padding: 60px 0;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+#social_medias a i.fa-facebook {
+    color: rgba(0, 0, 255, 0.6);
+}
+
+#social_medias a i.fa-twitter {
+    color: rgba(0, 0, 255, 0.6);
+}
+
+#social_medias a i.fa-instagram {
+    color: rgb(235, 48, 210); 
+}
+
+#social_medias a i.fa-youtube {
+    color: rgba(255, 0, 0, 0.6);
+}
+
+
+
